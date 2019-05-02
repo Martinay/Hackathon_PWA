@@ -2,10 +2,9 @@ Hackathon topic PWA (Progressive Web App)
 
 authors https://github.com/adroi3 and https://github.com/Martinay
 
-the app shows the last build from the AzureDevops Server
+the app shows the lastest builds from any AzureDevops Server
 
-wo make it work update in class AzureApi
-update:
+to make it work update in class AzureApi:
 - devopsProjectUrl
 - username
 - password
